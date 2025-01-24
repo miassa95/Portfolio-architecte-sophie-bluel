@@ -1,1 +1,1 @@
-https://github.com/OpenClassrooms-Student-Center/Portfolio-architecte-sophie-bluel/tree/master/FrontEnd
+https://github.com/miassa95/Portfolio-architecte-sophie-bluel/tree/main/FrontEnd
